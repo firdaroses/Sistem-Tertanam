@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../PEMWEB/p7"
+		},
+		{
+			"name": "esp32-blink-led-4",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
